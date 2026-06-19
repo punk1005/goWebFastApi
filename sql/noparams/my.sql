@@ -1,0 +1,1 @@
+select id, name from skai.elem_types;
